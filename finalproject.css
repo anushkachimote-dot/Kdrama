@@ -1626,7 +1626,6 @@ body {
     left: 0;
     width: 100%;
     backface-visibility: hidden;
-    transform-style: preserve-3d;
 }
 
 .postcard-left {
